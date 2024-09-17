@@ -2,6 +2,7 @@ import React from 'react'
 
 
 import './App.css'
+import Home from './pages/home/Home'
 
 function App() {
   
@@ -9,7 +10,7 @@ function App() {
   return (
     <>
       <div className='app'>
-        <h1>hello</h1>
+        <Home/>
       </div>
      
     </>
