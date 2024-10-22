@@ -6,6 +6,7 @@ import NotificationsIcon from "@mui/icons-material/NotificationsNone";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 
+
 function Header() {
   return (
     <div className="header_outer_container">
@@ -41,5 +42,6 @@ function Header() {
     </div>
   );
 }
+
 
 export default Header;
